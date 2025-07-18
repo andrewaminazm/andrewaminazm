@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="A_GIF-style_digital_illustration_showcases_Andrew_.png" alt="Andrew Amin Projects" width="600"/>
+  <img src="A_GIF-style_digital_illustration_showcases.png" alt="Andrew Amin Projects" width="600"/>
 </p>
 
 ---
